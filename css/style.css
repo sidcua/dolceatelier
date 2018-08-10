@@ -1,0 +1,150 @@
+.img-home {
+	max-width: 500px;
+	height: auto;
+}
+p.home {
+	margin-top: 50px;
+	padding: 10px;
+}
+.headerlogo1 {
+	color: white;
+	font-family: "Monotype Corsiva";
+	display: inline-block;
+	font-size: 20px;
+}
+.mc {
+	font-family: "Monotype Corsiva";
+}
+span#subheader {
+	font-family: arial;
+	font-size: 20px;
+}
+.headerbg1 {
+	background-color: pink;	
+}
+.headerbg2 {
+	background-color: pink;
+}
+.cardimg {
+	width: 100%;
+	height: 300px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        display: block;
+        height: 400px;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        line-height: 1;
+    }
+.x-navbar {
+    transition: 0.2s all linear;
+}
+
+.x-navbar.alt-color {
+    background-color: pink;
+}
+.divspace {
+	margin-top: 50px;
+	display: inline-block;
+}
+.thumbnailoverlay {
+	opacity: .3;
+}
+p.error {
+	text-align: center;
+	color: red;
+	font-size: 15px;
+	font-family: roboto;
+} 
+a.linknostyle {
+	text-decoration: none;
+	color: white;
+}
+h6.footertitle {
+	font-family: verdana;
+}
+.table {
+	table-layout: fixed;
+}
+.table td {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.infodisplay {
+	white-space: initial;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: 11px;
+}
+/* Track */
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #e91e63;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+   background: #e91e63;
+}
+
+td.valigncenter {
+	vertical-align: middle;
+}
+
+.fileinput-div {
+	margin-top: 10px;
+}
+.input-label {
+	background: #009688;
+	color: #fff;
+	padding: 10px;
+	transition: 0.3s;
+}
+.input-label:hover {
+	background: #26a69a;
+	cursor: pointer;
+}
+.invi-file {
+	display: none;
+}
+.orderdiv {
+	height: 500px;
+	overflow-y: auto;
+}
+.indent {
+	margin-left: 40px;
+}
+.stepbox {
+	padding: 1px;
+	max-height: 400px;
+	width: 100%;
+}
+.customheighttbl {
+	max-height: 500px; 
+	overflow-y: auto;
+}
+.mg1 {
+	margin: 3px;
+}
+.note {
+	background-color: orange;
+	border-radius: 5px;
+	font-family: roboto;
+	color: black;
+}

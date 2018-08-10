@@ -1,0 +1,1 @@
+<center><img src="img/loading2.gif"></center>
