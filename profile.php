@@ -4,7 +4,6 @@
 		$_SESSION['qty'] = array();
 	}
 	include_once 'php/checksession.php';
-	include_once 'php/checkadmin.php';
 	include 'views/login.php';
 ?>
 <!DOCTYPE html>
